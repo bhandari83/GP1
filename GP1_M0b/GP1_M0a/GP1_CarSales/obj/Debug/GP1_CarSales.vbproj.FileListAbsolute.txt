@@ -1,0 +1,144 @@
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+E:\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+H:\Kingston 512\VB Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache
+E:\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+E:\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+E:\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+F:\GP1\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+F:\GP1\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+F:\GP1\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Template\P4_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1.1_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1.1_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Fall2009\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1.1_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1.1_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1.1_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1.1_Sales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Spring2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_Sales_Templates\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\Fall2010\pisafonov\IS250s01\CourseInfo\Demonstration Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\Spring2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\Spring2011\pisafonov\IS250s01\StudentWorkFolder\_instructor\P4\P4_M1_Sales_Template (cars)\GP1_CarSales\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\Summer2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\GP1\GP1_Sales_Templates\GP1_M0_CarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Summer2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\GP1\GP1_Sales_Templates\GP1_M0_CarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Summer2011\pisafonov\IS250s01\CourseInfo\Demonstrantion Projects\GP1\GP1_Sales_Templates\GP1_M0_CarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\ResGen.read.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0bCarSales_Template\GP1_CarSales\obj\Debug\ResGen.write.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\ResGen.read.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\AssignmentDropbox\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\ResGen.write.1.tlog
+Y:\Fall2013\pisafonov\IS250s01\Course Information\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Fall2013\pisafonov\IS250s01\Course Information\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Fall2013\pisafonov\IS250s01\Course Information\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Fall2013\pisafonov\IS250s02\Course Information\GP1\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Spring2014\pisafonov\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache

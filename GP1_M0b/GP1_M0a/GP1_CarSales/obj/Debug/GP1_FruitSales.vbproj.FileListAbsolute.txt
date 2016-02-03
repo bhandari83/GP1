@@ -1,0 +1,30 @@
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_FruitSales.exe
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_FruitSales.pdb
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\bin\Debug\GP1_FruitSales.xml
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_FruitSales.frmSalesData.resources
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_FruitSales.Resources.resources
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_FruitSales.vbproj.GenerateResource.Cache
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_FruitSales.exe
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_FruitSales.xml
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0aCarSales_Template\GP1_CarSales\obj\Debug\GP1_FruitSales.pdb
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.exe
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.xml
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.pdb
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\bin\Debug\GP1_FruitSales.exe
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\bin\Debug\GP1_FruitSales.pdb
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\bin\Debug\GP1_FruitSales.xml
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.frmSalesData.resources
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.Resources.resources
+Y:\Summer2014\ky4262us\IS250s01\Course Information\Demonstration Projects\GP1\GP1_Sales_Templates\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.vbproj.GenerateResource.Cache
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.exe
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.xml
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.pdb
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\bin\Debug\GP1_FruitSales.exe
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\bin\Debug\GP1_FruitSales.pdb
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\bin\Debug\GP1_FruitSales.xml
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.frmSalesData.resources
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.Resources.resources
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1\GP1_M0b Template\GP1_CarSales\obj\Debug\GP1_FruitSales.vbproj.GenerateResource.Cache
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1_M0b\GP1_CarSales\obj\Debug\GP1_FruitSales.exe
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1_M0b\GP1_CarSales\obj\Debug\GP1_FruitSales.xml
+\\stcloudstate\Files\Students\b\bhan1301\Desktop\GP1_M0b\GP1_CarSales\obj\Debug\GP1_FruitSales.pdb

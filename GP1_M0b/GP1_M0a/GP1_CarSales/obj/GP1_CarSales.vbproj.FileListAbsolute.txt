@@ -1,0 +1,10 @@
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.exe
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.pdb
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\bin\Debug\GP1_CarSales.xml
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\ResolveAssemblyReference.cache
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.frmSalesData.resources
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.Resources.resources
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.vbproj.GenerateResource.Cache
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.exe
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.xml
+Y:\Spring2008\pisafonov\BCIS250s01\CourseInfo\Demonstration Projects\GP1_CarSales (template and solution demo)\GP1_CarSales\obj\Debug\GP1_CarSales.pdb
